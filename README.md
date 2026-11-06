@@ -255,15 +255,15 @@ timeline
 ---
 
 ## 📈 GitHub Activity
+## 📈 GitHub Activity
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=kalpanabaghel296&show_icons=true&hide_border=true&bg_color=0B1020&title_color=818CF8&icon_color=22D3EE&text_color=C9D1D9" alt="GitHub stats card for kalpanabaghel296">
 <img height="165" src="https://streak-stats.demolab.com?user=kalpanabaghel296&hide_border=true&background=0B1020&ring=22D3EE&fire=818CF8&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=22D3EE&sideLabels=818CF8&dates=94A3B8" alt="GitHub contribution streak for kalpanabaghel296">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kalpanabaghel296&bg_color=0B1020&color=22D3EE&line=818CF8&point=FFFFFF&area=true&area_color=4F46E5&hide_border=true" alt="Contribution activity graph for kalpanabaghel296" width="100%">
+<br><br>
 
-<sub>Cards load from third-party services. <a href="https://github.com/kalpanabaghel296?tab=repositories">Browse all repositories</a> if they are unavailable.</sub>
+<a href="https://github.com/kalpanabaghel296?tab=repositories"><img src="https://img.shields.io/badge/Browse%20all%20repositories-0B1020?style=for-the-badge&logo=github&logoColor=white" alt="Browse all repositories on GitHub"></a>
 
 </div>
 
