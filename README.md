@@ -264,6 +264,13 @@ timeline
 
 <a href="https://github.com/kalpanabaghel296?tab=repositories"><img src="https://img.shields.io/badge/Browse%20all%20repositories-0B1020?style=for-the-badge&logo=github&logoColor=white" alt="Browse all repositories on GitHub"></a>
 
+<br><br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kalpanabaghel296/kalpanabaghel296/output/github-snake-dark.svg">
+  <img alt="Animated snake eating through my GitHub contribution graph" src="https://raw.githubusercontent.com/kalpanabaghel296/kalpanabaghel296/output/github-snake.svg" width="100%">
+</picture>
+
 </div>
 
 ---
